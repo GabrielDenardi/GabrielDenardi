@@ -1,4 +1,4 @@
-# Olá, eu sou Gabriel Denardi! 👋
+# E aí, eu sou Gabriel Denardi! 👋
 
 Desenvolvedor apaixonado por transformar ideias em soluções através de código. Sempre em busca de aprender e compartilhar conhecimento, estou focado em criar aplicações que impactem positivamente a vida das pessoas.
 
