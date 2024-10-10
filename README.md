@@ -31,5 +31,5 @@ Desenvolvedor apaixonado por transformar ideias em soluções através de códig
 
 ---
 
-🔗 **Portfólio completo**: [gabrieldenardi.com.br](https://gabrieldenardi.dev)
+🔗 **Portfólio completo**: [gabrieldenardi.com.br](https://gabrieldenardi.com.br)
 
