@@ -7,6 +7,10 @@ Sou um desenvolvedor focado em [tecnologias que você usa] e entusiasta de [áre
 - 💬 Pergunte-me sobre: [áreas que você pode ajudar].
 - 📫 Como me contatar: [email, LinkedIn, etc.].
 
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" />
 </div>
