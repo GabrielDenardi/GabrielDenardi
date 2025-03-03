@@ -13,8 +13,6 @@ Desenvolvedor apaixonado por transformar ideias em soluções através de códig
 ### 🔍 Sobre mim:
 - 🎓 **Estudando**: Sempre aprimorando minhas habilidades na area de Programação e User Experience.
 - 💡 **Curiosidades**: Sempre busco aplicar boas práticas de desenvolvimento e UX em meus projetos.
-- 🤝 **Pergunte-me sobre**: Desenvolvimento Web, APIs, DevOps, boas práticas de código e mais.
-
 ---
 
 ### 📊 Estatísticas do GitHub:
