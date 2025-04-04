@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&center=true&vCenter=true&lines=Olá%2C+eu+sou+o+Gabriel+Denardi!;Desenvolvedor+apaixonado+por+inovar+com+código!" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&center=true&vCenter=true&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Denardi!;Desenvolvedor+apaixonado+por+inovar+com+c%C3%B3digo!" />
   </a>
 </div>
 
@@ -17,28 +17,43 @@ Sou um desenvolvedor focado em transformar ideias em realidade através do códi
 - 💼 **LinkedIn**: [Conecte-se comigo](https://www.linkedin.com/in/gabrieldenardi06/)
 
 ---
-  
+
 ## 🛠️ Tecnologias e Ferramentas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDenardi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/GabrielDenardi/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GabrielDenardi&show_icons=true&theme=dark">
+      <img alt="Estatísticas do GitHub de Gabriel" src="https://github-readme-stats.vercel.app/api?username=GabrielDenardi&show_icons=true&theme=default">
+    </picture>
+  </a>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDenardi&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/GabrielDenardi/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDenardi&layout=compact&langs_count=7&theme=dark">
+      <img alt="Linguagens mais usadas por Gabriel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDenardi&layout=compact&langs_count=7&theme=default">
+    </picture>
+  </a>
 </div>
 
+---
 
- ![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+## 🏆 Troféus do GitHub
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielDenardi&theme=onedark" alt="Troféus do GitHub de Gabriel" />
+</p>
 
 ---
 
