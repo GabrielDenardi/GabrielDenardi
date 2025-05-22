@@ -35,6 +35,8 @@
 
 
 <!-- START DISCORD -->
+**Sem status** — ![L](https://cdn.discordapp.com/app-assets/null/mp:external/Pmc0LF7AgD07uTKAb9XYGUtcJNmjBrMACcaMmi5IzP0/https/cdn.jsdelivr.net/gh/Azn9/Jetbrains-Discord-Integration%40develop/icons/data/themes/atom/languages/reactts.png.png) ![S](https://cdn.discordapp.com/app-assets/null/mp:external/7lWigm4Vd7DNksFRquv2NuOT_OssGoMktiNpsKO7EFI/https/cdn.jsdelivr.net/gh/Azn9/Jetbrains-Discord-Integration%40develop/icons/data/themes/macos/applications/webstorm.png.png)
+<!-- END DISCORD -->
 <!-- END DISCORD -->
 
 ---
