@@ -39,6 +39,7 @@ jobs:
       - name: Injeta no README
         run: |
           # substitui tudo entre START e END pelo snippet gerado
+          SNIPPET="${{ steps.snippet.outputs.snippet }}"
           awk -v s="$SNIPPET" '
             /<!-- START DISCORD -->/ { print s; f=1; next }
             /<!-- END DISCORD -->/   { f=0 }
