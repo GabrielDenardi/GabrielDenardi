@@ -1,5 +1,8 @@
 name: Atualiza Discord Presence no README
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '*/10 * * * *'  # a cada 10 minutos (ou ajuste)
