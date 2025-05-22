@@ -32,7 +32,7 @@ jobs:
           # Escapa _ e coloca entre markers
           echo "snippet<<EOF" >> $GITHUB_OUTPUT
           echo "<!-- START DISCORD -->"      >> $GITHUB_OUTPUT
-          echo "$ACT"                        >> $GITHUB_OUTPUT
+          echo "[![Discord Presence](https://lanyard.cnrad.dev/api/${{ secrets.DISCORD_ID }}?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)](https://discord.com/users/${{ secrets.DISCORD_ID }})" >> $GITHUB_OUTPUT
           echo "<!-- END DISCORD -->"        >> $GITHUB_OUTPUT
           echo "EOF"                         >> $GITHUB_OUTPUT
 
