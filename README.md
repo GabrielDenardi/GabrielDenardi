@@ -35,7 +35,6 @@
 
 
 <!-- START DISCORD -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/847051690367778837?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)](https://discord.com/users/847051690367778837)
 <!-- END DISCORD -->
 
 ---
