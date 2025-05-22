@@ -33,7 +33,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDenardi&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/847051690367778837?theme=dark&bg=111&borderRadius=10px)](https://discord.com/users/847051690367778837)
+[![Discord Presence](https://api.lanyard.rest/v1/users/847051690367778837?format=svg&theme=dark)](https://discord.com/users/847051690367778837)
 
 ---
 
