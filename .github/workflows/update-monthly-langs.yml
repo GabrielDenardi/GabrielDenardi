@@ -2,6 +2,7 @@
 name: Atualizar linguagens mensais
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 1 * *'   # UTC 00:00 do dia 1
 
