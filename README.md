@@ -38,6 +38,7 @@
 <!-- MONTHLY_LANGUAGES_START -->
 ## 🗓️ Linguagens do mês passado
 
+- **md**: 5 commits
 
 <!-- MONTHLY_LANGUAGES_END -->
 
