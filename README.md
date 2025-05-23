@@ -35,6 +35,9 @@
 
 ---
 
+<!-- MONTHLY_LANGUAGES_START -->
+<!-- MONTHLY_LANGUAGES_END -->
+
 ## 🌍 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrieldenardi06/)
