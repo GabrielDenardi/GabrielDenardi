@@ -36,6 +36,10 @@
 ---
 
 <!-- MONTHLY_LANGUAGES_START -->
+## 🗓️ Linguagens do mês passado
+
+- **MD**: 5 commits
+
 <!-- MONTHLY_LANGUAGES_END -->
 
 ## 🌍 Onde me encontrar
