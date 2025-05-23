@@ -29,11 +29,11 @@ async function main() {
 
   const octokit = new Octokit({ auth: GITHUB_TOKEN });
 
-  const now            = new Date();
-  const firstOfThis    = startOfMonth(now);
-  const lastMonthEnd   = subMonths(firstOfThis, 1);
-  const sinceISO       = formatISO(startOfMonth(lastMonthEnd));
-  const untilISO       = formatISO(endOfMonth(lastMonthEnd));
+  const now          = new Date();
+  const firstOfThis  = startOfMonth(now);
+  const lastMonthEnd = subMonths(firstOfThis, 1);
+  const sinceISO     = formatISO(startOfMonth(lastMonthEnd));
+  const untilISO     = formatISO(endOfMonth(lastMonthEnd));
 
   console.log(`Buscando commits de ${sinceISO} até ${untilISO}…`);
 
@@ -46,11 +46,11 @@ async function main() {
 
   for (const repo of repos) {
     const commits = await octokit.paginate(octokit.repos.listCommits, {
-      owner:     USERNAME,
-      repo:      repo.name,
-      author:    USERNAME,
-      since:     sinceISO,
-      until:     untilISO,
+      owner:  USERNAME,
+      repo:   repo.name,
+      author: USERNAME,
+      since:  sinceISO,
+      until:  untilISO,
       per_page: 100,
     });
 
@@ -63,24 +63,23 @@ async function main() {
 
       for (const file of full.files || []) {
         const ext = path.extname(file.filename).replace(/^\./, "");
-        const lang = EXT_TO_LANG[ext] || ext.toUpperCase();
-        if (!langCounts[lang]) langCounts[lang] = 0;
-        langCounts[lang]++;
+        // Ignora extensões não mapeadas
+        if (!(ext in EXT_TO_LANG)) continue;
+        const lang = EXT_TO_LANG[ext];
+        langCounts[lang] = (langCounts[lang] || 0) + 1;
       }
     }
   }
 
-  const top2 = Object
-    .entries(langCounts)
-    .sort(([,a],[,b]) => b - a)
-    .slice(0, 2);
+  const sortedLangs = Object.entries(langCounts)
+    .sort(([,a],[,b]) => b - a);
 
-  console.log("Top 2 linguagens:", top2);
+  console.log("Linguagens ordenadas:", sortedLangs);
 
   const lines = [
     MARKER_START,
     "## 🗓️ Linguagens do mês passado\n",
-    ...top2.map(([lang, count]) => `- **${lang}**: ${count} commits`),
+    ...sortedLangs.map(([lang, count]) => `- **${lang}**: ${count} commits`),
     "",
     MARKER_END,
   ].join("\n");
