@@ -62,13 +62,13 @@ async function main() {
       });
 
       for (const file of full.files || []) {
-        const ext = path.extname(file.filename).replace(/^\./, "");
-        // Ignora extensões não mapeadas
-        if (!(ext in EXT_TO_LANG)) continue;
-        const lang = EXT_TO_LANG[ext];
-        langCounts[lang] = (langCounts[lang] || 0) + 1;
-      }
-    }
+  const ext = path.extname(file.filename).slice(1).toLowerCase();
+  if (!ext) continue;
+
+  const lang = EXT_TO_LANG[ext] ?? ext;
+
+  langCounts[lang] = (langCounts[lang] || 0) + 1;
+}
   }
 
   const sortedLangs = Object.entries(langCounts)
