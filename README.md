@@ -1,47 +1,77 @@
-<h1 align="center">Olá, eu sou o Gabriel Denardi! 👋</h1>
+<!-- Perfil do GitHub: Gabriel Denardi -->
+<div align="center">
 
-<p align="center">
-  <em>Desenvolvedor apaixonado por transformar ideias em soluções através de código.</em><br/>
-  <em>Sempre em busca de aprender e compartilhar conhecimento para criar aplicações que impactem positivamente a vida das pessoas.</em>
+# Gabriel Denardi 👋
+**Desenvolvedor Full-Stack** · **Next.js | React | Laravel**  
+Crio aplicações rápidas, acessíveis e com foco em **experiência do usuário** e **resultado de negócio**.
+
+[🌐 Portfólio](https://gabrieldenardi.com.br) ·
+[💼 LinkedIn](https://www.linkedin.com/in/gabrieldenardi06/) ·
+✉️ gabrieldenardi06@gmail.com
+
+</div>
+
+---
+
+## 🚀 Destaques Rápidos
+- Entrego **interfaces performáticas** (Core Web Vitals em dia) e **código limpo**.
+- Experiência com **design system**, **acessibilidade (a11y)** e **boas práticas de UX**.
+- Integrações **Node/Laravel** com bancos SQL, autenticação, e-mail e serviços de pagamento.
+
+---
+
+## 🧰 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,express,php,laravel,prisma,postgres,mysql,docker,git,figma&perline=8" alt="Tech stack icons"/>
 </p>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## ⭐ Projetos em Destaque
+> *Troque os exemplos abaixo pelos seus cases reais com links, prints ou GIFs curtos.*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+### 1) Nome do Projeto — resultado em 1 linha
+- **Desafio:** contexto curto do problema.
+- **Solução:** o que você fez (ex.: SSR com Next.js, otimização de bundle, API em Laravel).
+- **Impacto:** métrica ou benefício (ex.: +38% conversão, −45% tempo de carregamento).
+- **Stack:** Next.js, React Query, Tailwind, Node/Laravel, PostgreSQL  
+🔗 [Demo/Case] • 🧩 [Repositório]
 
----
+### 2) Nome do Projeto — foco em UX/performance
+- **Desafio:** ...
+- **Solução:** ...
+- **Impacto:** ...
+- **Stack:** ...  
+🔗 [Demo/Case] • 🧩 [Repositório]
 
-## 🔍 Sobre mim
-- 🎓 **Estudando**: Sempre aprimorando minhas habilidades na área de Programação e UX (User Experience).
-- 💡 **Curiosidades**: Gosto de aplicar boas práticas de desenvolvimento e UX em todos os meus projetos.
-- 💬 **Compartilhando Conhecimento**: Acredito que a melhor forma de aprender é ensinando, então sempre que posso, ajudo colegas e participo de comunidades de desenvolvimento.
-
----
-
-## 📊 Minhas Estatísticas
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielDenardi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDenardi&layout=compact&langs_count=7&theme=radical"/>
-</p>
+### 3) Nome do Projeto — automações/integr. externas
+- **Desafio:** ...
+- **Solução:** ...
+- **Impacto:** ...
+- **Stack:** ...  
+🔗 [Demo/Case] • 🧩 [Repositório]
 
 ---
 
-## 🌍 Onde me encontrar
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabrieldenardi06/)
-- 🌐 [Portfólio Completo](https://gabrieldenardi.com.br)
+## 🧭 Agora
+- Aprimorando **UX Writing** e **acessibilidade** nas interfaces.
+- Explorando **Server Actions** no Next.js e **práticas de caching**.
 
 ---
 
-<p align="center">
+## 📈 Estatísticas Essenciais
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielDenardi&show_icons=true&theme=radical&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDenardi&layout=compact&langs_count=8&theme=radical" alt="Top languages"/>
+</div>
+
+---
+
+## 🤝 Vamos conversar?
+- **Portfólio:** https://gabrieldenardi.com.br  
+- **LinkedIn:** https://www.linkedin.com/in/gabrieldenardi06/  
+- **E-mail:** gabrieldenardi06@gmail.com
+
+<div align="center">
   Feito com ❤️ por <strong>Gabriel Denardi</strong>
-</p>
+</div>
