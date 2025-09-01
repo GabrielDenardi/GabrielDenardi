@@ -1,77 +1,61 @@
-<!-- Perfil do GitHub: Gabriel Denardi -->
+<!-- README do GitHub: Gabriel Denardi -->
+<!-- Header com onda + título -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0979,100:FF6A00&height=160&section=header&text=Gabriel%20Denardi&fontSize=44&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
+
 <div align="center">
 
-# Gabriel Denardi 👋
-**Desenvolvedor Full-Stack** · **Next.js | React | Laravel**  
-Crio aplicações rápidas, acessíveis e com foco em **experiência do usuário** e **resultado de negócio**.
+### 👋 Olá! Eu sou o **Gabriel Denardi**
+**Desenvolvedor Full-Stack** · **Next.js | React | Laravel**
 
-[🌐 Portfólio](https://gabrieldenardi.com.br) ·
-[💼 LinkedIn](https://www.linkedin.com/in/gabrieldenardi06/) ·
-✉️ gabrieldenardi06@gmail.com
+<!-- Typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=700&center=true&vCenter=true&width=600&lines=Transformo+ideias+em+aplica%C3%A7%C3%B5es+r%C3%A1pidas+e+acess%C3%ADveis;Foco+em+UX%2C+performance+e+c%C3%B3digo+limpo;Integra%C3%A7%C3%B5es+seguras+e+boas+pr%C3%A1ticas+de+desenvolvimento" alt="Typing SVG" />
+
+<!-- CTAs -->
+<a href="https://gabrieldenardi.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gabrieldenardi06/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:gabrieldenardi06@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<!-- Visitas -->
+<br />
+<img src="https://komarev.com/ghpvc/?username=GabrielDenardi&style=flat&color=8A2BE2" alt="profile views" />
 
 </div>
 
 ---
 
-## 🚀 Destaques Rápidos
-- Entrego **interfaces performáticas** (Core Web Vitals em dia) e **código limpo**.
-- Experiência com **design system**, **acessibilidade (a11y)** e **boas práticas de UX**.
-- Integrações **Node/Laravel** com bancos SQL, autenticação, e-mail e serviços de pagamento.
+## 🚀 O que eu entrego
+- ✅ **Interfaces performáticas** (Core Web Vitals em dia) e **acessíveis** (a11y).
+- ✅ **Arquitetura limpa** e padronização (lint, hooks, CI/CD quando necessário).
+- ✅ **Integrações sólidas** com APIs, autenticação, e-mail e pagamentos.
+- ✅ **UX de ponta**: microinterações, feedbacks claros e experiência fluida.
 
 ---
 
 ## 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,express,php,laravel,prisma,postgres,mysql,docker,git,figma&perline=8" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,redux,nodejs,express,php,laravel,prisma,postgres,mysql,docker,git,figma&perline=8" alt="Tech stack icons"/>
 </p>
 
 ---
 
-## ⭐ Projetos em Destaque
-> *Troque os exemplos abaixo pelos seus cases reais com links, prints ou GIFs curtos.*
-
-### 1) Nome do Projeto — resultado em 1 linha
-- **Desafio:** contexto curto do problema.
-- **Solução:** o que você fez (ex.: SSR com Next.js, otimização de bundle, API em Laravel).
-- **Impacto:** métrica ou benefício (ex.: +38% conversão, −45% tempo de carregamento).
-- **Stack:** Next.js, React Query, Tailwind, Node/Laravel, PostgreSQL  
-🔗 [Demo/Case] • 🧩 [Repositório]
-
-### 2) Nome do Projeto — foco em UX/performance
-- **Desafio:** ...
-- **Solução:** ...
-- **Impacto:** ...
-- **Stack:** ...  
-🔗 [Demo/Case] • 🧩 [Repositório]
-
-### 3) Nome do Projeto — automações/integr. externas
-- **Desafio:** ...
-- **Solução:** ...
-- **Impacto:** ...
-- **Stack:** ...  
-🔗 [Demo/Case] • 🧩 [Repositório]
-
----
-
-## 🧭 Agora
-- Aprimorando **UX Writing** e **acessibilidade** nas interfaces.
-- Explorando **Server Actions** no Next.js e **práticas de caching**.
-
----
-
-## 📈 Estatísticas Essenciais
+## 📈 Estatísticas
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielDenardi&show_icons=true&theme=radical&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDenardi&layout=compact&langs_count=8&theme=radical" alt="Top languages"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=GabrielDenardi&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🤝 Vamos conversar?
-- **Portfólio:** https://gabrieldenardi.com.br  
-- **LinkedIn:** https://www.linkedin.com/in/gabrieldenardi06/  
-- **E-mail:** gabrieldenardi06@gmail.com
-
 <div align="center">
-  Feito com ❤️ por <strong>Gabriel Denardi</strong>
+  <strong>Vamos conversar?</strong><br/>
+  <a href="https://gabrieldenardi.com.br">gabrieldenardi.com.br</a> · 
+  <a href="https://www.linkedin.com/in/gabrieldenardi06/">LinkedIn</a> · 
+  <a href="mailto:gabrieldenardi06@gmail.com">gabrieldenardi06@gmail.com</a>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:EE0979&height=120&section=footer" width="100%"/>
+</p>
