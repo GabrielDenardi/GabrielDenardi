@@ -1,5 +1,3 @@
-<!-- README do GitHub: Gabriel Denardi -->
-<!-- Header com onda + título -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0979,100:FF6A00&height=160&section=header&text=Gabriel%20Denardi&fontSize=44&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
@@ -9,38 +7,30 @@
 ### 👋 Olá! Eu sou o **Gabriel Denardi**
 **Desenvolvedor Full-Stack** · **Next.js | React | Laravel**
 
-<!-- Typing effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=700&center=true&vCenter=true&width=900&height=50&lines=Transformo+ideias+em+aplica%C3%A7%C3%B5es+r%C3%A1pidas+e+acess%C3%ADveis;Foco+em+UX%2C+performance+e+c%C3%B3digo+limpo;Integra%C3%A7%C3%B5es+seguras+e+boas+pr%C3%A1ticas+de+desenvolvimento" alt="Typing SVG" />
 
-<!-- CTAs -->
 <a href="https://gabrieldenardi.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/gabrieldenardi06/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:gabrieldenardi06@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<!-- Visitas -->
-<br />
-<img src="https://komarev.com/ghpvc/?username=GabrielDenardi&style=flat&color=8A2BE2" alt="profile views" />
+---
 
-</div>
+## O que eu entrego
+- **Interfaces performáticas** (Core Web Vitals em dia) e **acessíveis** (a11y).
+- **Arquitetura limpa** e padronização (lint, hooks, CI/CD quando necessário).
+- **Integrações sólidas** com APIs, autenticação, e-mail e pagamentos.
+- **UX de ponta**: microinterações, feedbacks claros e experiência fluida.
 
 ---
 
-## 🚀 O que eu entrego
-- ✅ **Interfaces performáticas** (Core Web Vitals em dia) e **acessíveis** (a11y).
-- ✅ **Arquitetura limpa** e padronização (lint, hooks, CI/CD quando necessário).
-- ✅ **Integrações sólidas** com APIs, autenticação, e-mail e pagamentos.
-- ✅ **UX de ponta**: microinterações, feedbacks claros e experiência fluida.
-
----
-
-## 🧰 Tech Stack
+## Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,redux,nodejs,express,php,laravel,prisma,postgres,mysql,docker,git,figma&perline=8" alt="Tech stack icons"/>
 </p>
 
 ---
 
-## 📈 Estatísticas
+## Estatísticas
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielDenardi&show_icons=true&theme=radical&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDenardi&layout=compact&langs_count=8&theme=radical" alt="Top languages"/>
