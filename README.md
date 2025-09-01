@@ -10,7 +10,7 @@
 **Desenvolvedor Full-Stack** · **Next.js | React | Laravel**
 
 <!-- Typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=700&center=true&vCenter=true&width=600&lines=Transformo+ideias+em+aplica%C3%A7%C3%B5es+r%C3%A1pidas+e+acess%C3%ADveis;Foco+em+UX%2C+performance+e+c%C3%B3digo+limpo;Integra%C3%A7%C3%B5es+seguras+e+boas+pr%C3%A1ticas+de+desenvolvimento" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=700&center=true&vCenter=true&width=900&height=50&lines=Transformo+ideias+em+aplica%C3%A7%C3%B5es+r%C3%A1pidas+e+acess%C3%ADveis;Foco+em+UX%2C+performance+e+c%C3%B3digo+limpo;Integra%C3%A7%C3%B5es+seguras+e+boas+pr%C3%A1ticas+de+desenvolvimento" alt="Typing SVG" />
 
 <!-- CTAs -->
 <a href="https://gabrieldenardi.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
