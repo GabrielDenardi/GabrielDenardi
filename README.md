@@ -25,7 +25,7 @@
 
 ## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,redux,nodejs,express,php,laravel,prisma,postgres,mysql,docker,git,figma&perline=8" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,php,laravel,prisma,postgres,mysql,docker,git,figma&perline=8" alt="Tech stack icons"/>
 </p>
 
 ---
