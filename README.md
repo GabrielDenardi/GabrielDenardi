@@ -41,8 +41,12 @@ Plataforma web com foco em navegação clara, experiência digital e estrutura d
 ### [fragmentos-do-destino](https://github.com/GabrielDenardi/fragmentos-do-destino)
 Projeto autoral que conecta interface, backend e IA em uma experiência web imersiva.
 
-### [backend-doacoes-animais](https://github.com/GabrielDenardi/backend-doacoes-animais)
-Backend voltado para apoio a plataforma de doações, útil para mostrar arquitetura e integração.
+### [mentor-ai](https://github.com/GabrielDenardi/mentor-ai)
+Aplicação de estudos com IA, com plano personalizado, quizzes e integração com agenda.
+
+### [diagonal-mudancas-system](https://github.com/GabrielDenardi/diagonal-mudancas-system)
+Sistema completo com frontend, backend e integração para uma operação real.
+
 
 ---
 
