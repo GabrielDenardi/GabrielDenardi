@@ -18,8 +18,9 @@ const ORGANIZATION_LABELS: Record<string, string> = {
 };
 
 const PRODUCT_LABELS: Record<string, string> = {
-  "app-financeiro": "no App Financeiro",
-  "app-financeiro-landing": "no App Financeiro",
+  "app-financeiro": "no App Nitin",
+  "app-financeiro-landing": "no App Nitin",
+  "nitin-support": "no App Nitin",
   "figurinha-vi": "na Figurinha VI",
   "gabriel-blog": "no meu blog",
   "gabriel-portfolio": "no meu portfólio",
