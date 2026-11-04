@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Gabriel Denardi. Construo produtos web, do banco de dados ao deploy." width="100%">
+  <img src="assets/banner-light.svg" alt="Gabriel Denardi. Construo produtos web, do banco de dados ao deploy. Estudando agentes de IA, MCP e evals." width="100%">
 </picture>
 
 Oi, eu sou o Gabriel. Sou dev full-stack e gosto de cuidar do produto inteiro. No dia a dia trabalho com TypeScript (React, Next.js e Node.js) e PHP com Laravel, quase sempre com PostgreSQL por baixo.
